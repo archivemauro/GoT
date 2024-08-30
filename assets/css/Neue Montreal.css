@@ -1,0 +1,95 @@
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-0e7f8f934df24fcf720d03989f13e444.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-0e7f8f934df24fcf720d03989f13e444.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-fd5603270837723a1457637a1a27315a.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-b63fa496a91236eb03c609fba75ecc75.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-93924e603d4a39235f46064499021e86.ttf) format('truetype');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-ae704926fabbbf34f78428ae1c11f74f.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-ae704926fabbbf34f78428ae1c11f74f.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-a36673966f579d925498f31acfc4af21.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-6f960f6fef1a7c8fb5d15fb88b77acff.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-f62fa955bd6f92595a06272290e60d8f.ttf) format('truetype');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-71c93bd641a37260d5800b0b80bfa89f.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-71c93bd641a37260d5800b0b80bfa89f.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-7f77396d7170df2b8d05ab652c93a68b.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-d7fdbc646c0d0e9a3ca1dd9bcec1dcd0.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-7e1021a39deb7f4a361c183d754c30c3.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-30da865b9bb99197b6853a82e5c2ce01.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-30da865b9bb99197b6853a82e5c2ce01.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-bf60e4fc186a3b1b9d1050fdd56edc46.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-8c389ad55be7f5e1a50a17a8c60f955e.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-ea13a7d840560544da310b7af8392992.ttf) format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-c7637d36a8a4fb768c2ad997665f6fb2.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-c7637d36a8a4fb768c2ad997665f6fb2.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-e75e5c8d1ff8ce9b86473eb0c92ce706.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-91e40685e3262c1881598e344336b546.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-b155f25e0a364d32ced066e548024b8a.ttf) format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-9bb5ae7fc74789a1978fa8a7105f41da.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-9bb5ae7fc74789a1978fa8a7105f41da.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-fd5316181cac0a9d455f2972185446e7.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-0b331f5f46462ef8b0cf2199fd4d0e82.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-555e4ef07d57c2c7dc999ace803ad48d.ttf) format('truetype');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-fe49928d0e84e801bff8b91bf1294142.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-fe49928d0e84e801bff8b91bf1294142.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-c19c6938483ece2025847f0a806464a6.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-ac3aaeb62df930b8452de8a80b562062.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-d1b0c3dff54a0848832cf515c350d372.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Neue Montreal';
+	src: url(../../assets/fonts/Neue%20Montreal-0d70196f585e47c962a76cdc918bb809.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-0d70196f585e47c962a76cdc918bb809.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Neue%20Montreal-e2ba1bbb50886e156189680b87f26bab.woff2) format('woff2'),
+	url(../../assets/fonts/Neue%20Montreal-8d1ec67972209631266c723793bc0337.woff) format('woff'),
+	url(../../assets/fonts/Neue%20Montreal-5eae74a7520b9493c4c881afec3c7bf1.ttf) format('truetype');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
